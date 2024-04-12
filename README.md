@@ -16,7 +16,42 @@ Hi there! I'm Fenil Harsoda, a passionate Android application developer with f2 
 
 ## Featured Projects
 
-- **Project 1:** College project for Doctor/Patient Appointment System. [Link to project](url)
+# HealthHub - Connect with Care
+
+## Project Description
+
+Welcome to HealthHub, an innovative Android application designed to streamline the interaction between healthcare providers and patients. Our platform offers comprehensive login and registration systems tailored for both doctors and patients, ensuring a seamless experience for all users.
+
+Patients can easily create accounts, schedule appointments with available doctors, and access essential healthcare resources directly from their smartphones. Meanwhile, doctors have the tools they need to manage appointments efficiently, allowing them to focus on providing quality care to their patients.
+
+In addition to appointment scheduling, our app provides valuable health information through news updates and practical tools such as calculators for BMI (Body Mass Index) and other health metrics. With HealthHub, we aim to empower individuals to take control of their health and connect with healthcare professionals effortlessly.
+
+## Key Features
+
+1. **Dual Login and Registration:**
+   - Separate login and registration systems for doctors and patients, ensuring secure access to personalized features.
+   
+2. **Appointment Scheduling:**
+   - Patients can browse available doctors and schedule appointments at their convenience.
+   - Doctors can view and manage appointments, optimizing their workflow and ensuring efficient time management.
+
+3. **Health News Updates:**
+   - Stay informed with the latest news and articles on health-related topics directly within the app.
+   
+4. **Health Calculators:**
+   - Access useful tools such as BMI calculators to track and monitor personal health metrics.
+
+5. **User Profiles:**
+   - Personalized user profiles for doctors and patients, providing a centralized hub for managing appointments and accessing account information.
+
+6. **Notification System:**
+   - Receive timely reminders for upcoming appointments and important health updates.
+
+7. **User-Friendly Interface:**
+   - Intuitive and user-friendly design, making it easy for users to navigate and access essential features.
+
+8. **Security and Privacy:**
+   - Robust security measures to protect user data and ensure confidentiality in all interactions.
 
 Let's collaborate and bring your next big idea to life!
 
@@ -24,7 +59,7 @@ Let's collaborate and bring your next big idea to life!
 
 - Programming Languages: Java, Kotlin
 - Frameworks/Libraries: Android SDK, Retrofit, Room Persistence Library
-- Tools: Android Studio, Git, Gradle, Postman, Git DEsktop
+- Tools: Android Studio, Git, Gradle, Postman, Git Desktop
 - OS : Window, MacOs
 
 ## Experience
